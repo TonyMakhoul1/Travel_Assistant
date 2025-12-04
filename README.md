@@ -31,6 +31,7 @@ All agents collaborate using **CrewAI** to generate a complete travel plan from 
 * **Python 3.10+**
 * **CrewAI** – Multi-agent orchestration
 * **Streamlit** – Web UI
+* **Amadeus API** – Flights & Hotels (real-time data)
 * **SerpAPI** – Backup hotel & travel search
 * **dotenv** – Environment variable management
 
@@ -62,6 +63,10 @@ GenAI/
 │   ├── app.py
 │   └── main.py
 
+```
+
+> ⚠️ `.env` and `venv/` are **excluded from GitHub** using `.gitignore`.
+
 ---
 
 ## 🖥️ How It Works
@@ -78,7 +83,7 @@ GenAI/
 Create a `.env` file inside the **GenAI/** folder:
 
 ```
-GROQ_API_KEY=your_groq_api_key
+GROQ_API_KEY=your_groqapi_key
 SERP_API_KEY=your_serpapi_key
 ```
 
@@ -153,3 +158,15 @@ Computer Engineering Student | AI Engineer | ML/DL Engineer
 Lebanese International University
 
 ---
+
+## ⭐ If you like this project
+
+Feel free to:
+
+* ⭐ Star the repository
+* 🛠️ Contribute
+* 🔁 Fork it
+
+---
+
+> "Smart AI assistants are not the future — they are the present." 🚀
