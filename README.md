@@ -31,7 +31,6 @@ All agents collaborate using **CrewAI** to generate a complete travel plan from 
 * **Python 3.10+**
 * **CrewAI** – Multi-agent orchestration
 * **Streamlit** – Web UI
-* **Amadeus API** – Flights & Hotels (real-time data)
 * **SerpAPI** – Backup hotel & travel search
 * **dotenv** – Environment variable management
 
@@ -153,7 +152,7 @@ Perfect for:
 ## 👨‍💻 Author
 
 **Tony Makhoul**
-Computer Engineering Student | AI Engineer | ML/DL Engineer
+Computer Engineering | AI Engineer | ML/DL Engineer
 Lebanese International University
 
 ---
