@@ -65,7 +65,6 @@ GenAI/
 
 ```
 
-> ⚠️ `.env` and `venv/` are **excluded from GitHub** using `.gitignore`.
 
 ---
 
@@ -159,14 +158,5 @@ Lebanese International University
 
 ---
 
-## ⭐ If you like this project
-
-Feel free to:
-
-* ⭐ Star the repository
-* 🛠️ Contribute
-* 🔁 Fork it
-
 ---
 
-> "Smart AI assistants are not the future — they are the present." 🚀
