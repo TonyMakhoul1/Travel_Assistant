@@ -152,8 +152,8 @@ Perfect for:
 ## 👨‍💻 Author
 
 **Tony Makhoul**
-Computer Engineering | AI Engineer | ML/DL Engineer
-Lebanese International University
+Computer Engineering | AI Engineer | ML/DL Engineer 
+- Lebanese International University
 
 ---
 
